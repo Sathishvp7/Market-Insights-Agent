@@ -1,6 +1,5 @@
 phidata
 groq
 yfinance
-'fastapi[standard]'
 sqlalchemy
 duckduckgo-search
